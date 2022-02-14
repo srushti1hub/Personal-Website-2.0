@@ -63,6 +63,12 @@ a:hover {
   width: 15%;
 }
 
+.top-cloud:hover{
+  right: 250px;
+  height: 20%;
+  width: 20%;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 300px;
@@ -71,6 +77,11 @@ a:hover {
   width: 15%;
 }
 
+.bottom-cloud:hover{
+  left: 250px;
+  height: 20%;
+  width: 20%;
+}
 .intro {
   margin: 0;
   background-color: #EAF6F6;
